@@ -15,9 +15,9 @@
 
 #page-home header {
     margin-top: 48px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    display: flex; /* put the elements side by side */
+    align-items: center; /* put the elements at the same height */
+    justify-content: space-between; /* first element at left side, second element at right side */
 }
 
 #page-home header a {
@@ -36,7 +36,7 @@
 
 #page-home main {
     max-width: 560px;
-    flex: 1;
+    flex: 1; /* preenche os espaço existente, podemos usar pq o page home content é display flex */
     display: flex;
     flex-direction: column;
     justify-content: center;
