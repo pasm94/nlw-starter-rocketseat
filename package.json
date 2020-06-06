@@ -1,0 +1,24 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasm94/nlw-starter-rocketseat.git"
+  },
+  "author": "Paulo A. S. Müller",
+  "bugs": {
+    "url": "https://github.com/pasm94/nlw-starter-rocketseat/issues"
+  },
+  "homepage": "https://github.com/pasm94/nlw-starter-rocketseat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
