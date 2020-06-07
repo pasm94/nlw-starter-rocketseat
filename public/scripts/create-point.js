@@ -48,7 +48,7 @@ document
 // getCities will be execute on change, and getCities() would be executed immediately
 
 
-// Itens de coleta
+// coleta items
 // get all li's
 
 const itemsToCollect = document.querySelectorAll('.items-grid li')
