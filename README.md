@@ -6,14 +6,8 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
 </p>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-</p>
 
 <br>
 
@@ -32,7 +26,8 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Ecoleta is a marketplace that helps people find waste collection points efficiently.
+Ecoleta is a market that helps people find and / or register garbage collection points efficiently.
+It was developed during the Next Level Week - Rocketseat
 
 ## 🔖 Layout
 
@@ -40,4 +35,3 @@ You can view the project layout in the format through [this link](<https://www.f
 
 ---
 
-Made with ♥ by Rocketseat :wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
