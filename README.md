@@ -4,10 +4,9 @@
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -24,21 +23,21 @@
 
 ## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## 💻 Projeto
+## 💻 Project
 
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+Ecoleta is a marketplace that helps people find waste collection points efficiently.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+You can view the project layout in the format through [this link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). Remembering that you will need to have an account on [Figma](http://figma.com/).
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Made with ♥ by Rocketseat :wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
